@@ -1,0 +1,10 @@
+INSERT INTO player (playername, jerseynumber, role) VALUES ('John Doe', 10, 'Forward');
+INSERT INTO player (playername, jerseynumber, role) VALUES ('Jane Smith', 8, 'Midfielder');
+INSERT INTO player (playername, jerseynumber, role) VALUES ('Alex Johnson', 1, 'Goalkeeper');
+INSERT INTO player (playername, jerseynumber, role) VALUES ('Emily Davis', 5, 'Defender');
+INSERT INTO player (playername, jerseynumber, role) VALUES ('Michael Brown', 7, 'Midfielder');
+INSERT INTO player (playername, jerseynumber, role) VALUES ('Chris Wilson', 9, 'Forward');
+INSERT INTO player (playername, jerseynumber, role) VALUES ('Jessica Garcia', 6, 'Defender');
+INSERT INTO player (playername, jerseynumber, role) VALUES ('Daniel Martinez', 11, 'Forward');
+INSERT INTO player (playername, jerseynumber, role) VALUES ('Laura Thompson', 4, 'Midfielder');
+INSERT INTO player (playername, jerseynumber, role) VALUES ('David Lee', 3, 'Defender');
